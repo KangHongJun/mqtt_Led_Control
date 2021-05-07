@@ -17,7 +17,7 @@ listener 1883
 install node.js
 <https://nodejs.org/>
 
-check installed npm in cmd
+* check installed npm in cmd
 
 <pre><code>npm -v</code></pre>
 
@@ -33,11 +33,11 @@ inbound rules -> new rule -> port-> tcp & S 1883 -> A -> set name
 cd mosquitto install path
 <pre><code>mosquitto -c mosquitto.conf -v</code></pre>
 
-in cmd check mosquitto port
+* in cmd check mosquitto port
 
 <pre><code>netstat -an</code></pre>
 
-find port 0:0:0:0:1883
+* find port 0:0:0:0:1883
 
 end
 
