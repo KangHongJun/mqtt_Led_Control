@@ -3,8 +3,7 @@ arduino control Led using mqtt &amp; node-red
 
 <h2>1.Preparing</h2>
 
-1-1mosquitto download & setting
-
+1-1. mosquitto download & setting
 https://mosquitto.org/
 
 find mosquitto.conf and edit
@@ -13,7 +12,17 @@ allow_anonymous true
 
 listener 1883
 
-2. node-red download
+1-2. node-red download
+
+install node.js
+https://nodejs.org/
+
+check install npm in cmd
+
+<pre><code>
+npm -v
+</code></pre>
+
 
 
 
