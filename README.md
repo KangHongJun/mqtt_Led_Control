@@ -19,11 +19,10 @@ install node.js
 
 check install npm in cmd
 
-<pre><code>
-npm -v
-</code></pre>
+<pre><code>npm -v</code></pre>
 
-
+* install node-red
+<pre><code>npm install *g --unsafe-perm node-red</code></pre>
 
 
 
