@@ -3,10 +3,10 @@ arduino control Led using mqtt &amp; node-red
 
 <h2>1.Preparing</h2>
 
-1-1. mosquitto download & setting
+1-1. mosquitto downloading
 <https://mosquitto.org/>
 
-find mosquitto.conf and edit
+*find mosquitto.conf and edit
 
 allow_anonymous true
 
